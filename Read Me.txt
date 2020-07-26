@@ -1,0 +1,9 @@
+Java Chat Application with WAN and Port Support
+
+How to run:
+1. Make sure the path for java home is already set. if not then first set the path.
+2. Launch two instances of the application typing 'java JChatBox' twice in the cmd or just click on Start.bat file.
+3. When both the instances are running use one of them as host and other one as a client
+4. Choose the same port on both host and client instance
+5. Click connect button on host instance, while it shows connecting click connect on client instance 
+6. After succesful connection try to send messages.
